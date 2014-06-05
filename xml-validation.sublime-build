@@ -12,7 +12,7 @@
 	  		"--noout", 
 	  		"$file"
   		],
-  		"working_dir": "$packages/sublime-validation"
+  		"working_dir": "$packages/scribenet-sublime-validation"
   	},
   	"file_regex": ".*",
   	"selector"  : "source.xml"
