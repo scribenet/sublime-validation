@@ -1,0 +1,19 @@
+{
+  	"cmd": [
+  		"xmllint", 
+  		"--valid", 
+  		"--noout", 
+  		"$file"
+  	],
+  	"windows": {
+  		"cmd": [
+  			"libxml/xmllint.exe", 
+	  		"--valid", 
+	  		"--noout", 
+	  		"$file"
+  		],
+  		"working_dir": "$packages/sublime-validation"
+  	},
+  	"file_regex": ".*",
+  	"selector"  : "source.xml"
+}

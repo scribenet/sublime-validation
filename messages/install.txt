@@ -1,0 +1,12 @@
+SCRIBE: VALIDATION
+==================
+
+Description:
+	A simple sublime build system for validation of XML files.
+
+Usage: 
+	- To check well-formedness and DTD validity go to 
+	  Tools > Build System > xml-wellformed or 
+	  Tools > Build System > xml-validation, respectively.
+	- Once you have selected your build system, use
+	  Ctrl-B (Windows/Linux) or Command-B (Mac) to run.
