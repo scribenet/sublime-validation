@@ -1,0 +1,10 @@
+[
+    {
+        "keys": ["ctrl+alt+v"],
+        "command": "xml_dtd_validation"
+    },
+    {
+        "keys": ["ctrl+alt+c"],
+        "command": "xml_wellformed_validation"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "caption": "Scribe Inc.",
+	    "id": "scribe",
+        "children":
+        [
+            {
+                "caption": "Build",
+                "mnemonic": "B",
+                "id": "scribe_build",
+                "children": [
+                    {
+                        "caption": "XML: DTD Validation",
+                        "command": "xml_dtd_validation"
+                    },
+                    {
+                        "caption": "XML: Well-Formed Check",
+                        "command": "xml_wellformed_validation"
+                    }
+                ]
+            }
+        ]
+    }
+]
